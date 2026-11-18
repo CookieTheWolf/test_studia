@@ -1,2 +1,4 @@
 test_2
 Zmiana na nowej gałęzi
+Ćwiczenie 2 sinwo 
+testtest
